@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    overflow: auto;
+}
+
+h1 {
+    margin-left: 380px;
+    
+}
+p {
+    
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+button {
+    margin-left: 380px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background: #772FD3;
+    width: 50%;
+    border: none;
+    height: 48px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 700;
+}
